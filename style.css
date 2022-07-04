@@ -1,0 +1,41 @@
+/* Complete website css */
+body {
+    font-family: 'Gentium Book Plus', serif;
+    font-size: 18px;
+    margin: 0;
+}
+body p {
+    color: dimgray;
+}
+.flexContainer {
+    display: flex;
+    margin-bottom: 120px;
+}
+h1 {
+    font-size: 50px;
+}
+
+/* start welcomeSection style */
+.welcomeSection {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.halfWidth {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.halfWidth img {
+    width: 100%;
+}
+.linkBtn {
+    text-decoration: none;
+    color: #fff;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 5%;
+}
+.author {
+    color: tomato;
+}
+
