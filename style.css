@@ -45,3 +45,25 @@ h1 {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+/* start experienceSection style */
+.experienceSection {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experienceSection h1:first-child {
+    margin-left: 5%;
+}
+.experienceSection h3 {
+    color: tomato;
+}
+.experienceSection .halfWidth {
+    box-shadow: 10px 10px 40px lightblue;
+}
+.experienceSection .fullStack {
+    border-left: 7px solid tomato;
+}
+.experienceSection .backend {
+    border-left: 7px solid blue;
+}
