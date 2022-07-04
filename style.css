@@ -38,4 +38,10 @@ h1 {
 .author {
     color: tomato;
 }
-
+ 
+/* start dreamBig section style */
+.dreamBigSection {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
