@@ -67,3 +67,8 @@ h1 {
 .experienceSection .backend {
     border-left: 7px solid blue;
 }
+
+/* footer css start */
+footer p {
+    text-align: center;
+} 
